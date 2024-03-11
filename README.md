@@ -1,1 +1,1 @@
-# Interest risk mitigation for US-CH Portfolios using Reinforcement Learning
+# Interest rate risk mitigation for US-CH portfolios using Reinforcement Learning
