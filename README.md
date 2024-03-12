@@ -1,6 +1,6 @@
 # Interest rate risk mitigation for US-CH portfolios using Reinforcement Learning
 
-For this project, I considered the following macroeconomic data:
+For this project, I considered the following data:
 
 ## Switzerland
 - Swiss Consumer Price Index: [World Bank](https://data.worldbank.org/country/CH)
