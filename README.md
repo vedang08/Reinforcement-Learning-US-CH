@@ -26,3 +26,4 @@ For this project, I considered the following data:
 - US GDP Growth Rate: [World Bank](https://data.worldbank.org/country/united-states)
 - US Equity Data: [Yahoo Finance](https://finance.yahoo.com/quote/^GSPC?.tsrc=fin-srch)
   
+Data can be found here: [Economic and Market Data](https://drive.google.com/drive/folders/1sRwYKvjFeaH9RInOyAeuD9EV0xxNL6rs?usp=share_link)
